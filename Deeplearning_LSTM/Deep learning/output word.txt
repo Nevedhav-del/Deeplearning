@@ -1,0 +1,68 @@
+alert
+build
+calculate
+calculated
+calculating
+compute
+confirm
+create
+created
+creating
+delete
+derive
+determine
+display
+displayed
+eliminate
+erase
+export
+evaluate
+formulate
+generate
+identify
+import
+investment
+log
+modify
+notify
+obtain
+output
+present
+produce
+record
+remove
+render
+return
+retrieve
+result
+save
+send
+send message
+show
+store
+success
+transmit
+understand
+update
+validate
+verify
+calculate and output
+create a new entry
+delete the specified item
+export in the specified format
+import the provided file
+modify the existing information
+must generate
+must update the record
+notify the user
+output in the specified format
+present the information
+provide an output
+render the output
+retrieve the requested data
+return the expected value
+send a notification
+should display
+should save the data
+show the result
+store the result
